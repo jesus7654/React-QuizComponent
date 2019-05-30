@@ -1,6 +1,6 @@
 import  React,{Component}  from "react";
 
-class quizQuestionButton extends Component{
+class QuizQuestionButton extends Component{
 
     render(){
         return (
@@ -12,4 +12,4 @@ class quizQuestionButton extends Component{
 
 }
 
-export default quizQuestionButton
+export default QuizQuestionButton;
